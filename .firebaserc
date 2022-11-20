@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-61760": {
+      "hosting": {
+        "kanban-firestore": [
+          "kanban-61760"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-61760"
+  }
+}
